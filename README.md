@@ -65,23 +65,29 @@ Test endpoints using HTTPie:
 
 ### Folder Structure
 ├── app.js
+
 ├── config/
+
 ├── controllers/
+
 ├── database/
+
 ├── middlewares/
+
 ├── models/
+
 ├── routes/
+
 ├── utils/
+
 ├── views/
+
 ├── package.json
+
 ├── .gitignore
+
 └── README.md
 
-### License
-
-MIT
-
----
 
 ## **Step 6: Commit and Push .gitignore and README.md**
 
