@@ -1,0 +1,9 @@
+{
+  "eslint.validate": ["javascript", "javascriptreact", "typescript"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.options": {
+    "overrideConfigFile": "./eslint.config.js"  // change if your config file is named differently
+  }
+}
